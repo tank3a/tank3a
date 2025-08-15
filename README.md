@@ -4,9 +4,7 @@
 
 ## 🧑‍💻 소개
 
-- 🏫 현재 서울시립대 컴퓨터과학부 재학중입니다!
 - 🌱 Java/Spring 개발을 가장 오랫동안 해왔습니다!
-- ☁️ CI/CD, 클라우드 인프라 구축에서도 실력을 늘리고 싶습니다!
 - 📫 이메일: [![Gmail Badge](https://img.shields.io/badge/tank3a-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tank3a@gmail.com)](mailto:tank3a@gmail.com)
 
 </br></br>
